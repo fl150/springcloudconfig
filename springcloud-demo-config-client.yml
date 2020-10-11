@@ -18,8 +18,8 @@ eureka:
   register-with-eureka: false
 
 info:
-  app.name: springcloud-demo-config-client-dev
-  company.name: example
+  app.name: springcloud-demo-config-client-dev2
+  company.name: example2
 ---
 server:
   port: 8102
