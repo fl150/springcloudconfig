@@ -16,7 +16,7 @@ spring:
    username: root # 数据库用户名
    password: root # 数据库连接密码
  application:
-   name: springcloud-demo-config-product-client
+   name: springcloud-demo-config-product-client2
  profiles: dev
 
 logging:
