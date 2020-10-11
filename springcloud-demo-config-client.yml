@@ -9,7 +9,7 @@ server:
 spring:
   profiles: dev
   application:
-      name: springcloud-demo-test-client5
+      name: springcloud-demo-test-client2
 
 eureka:
  client:
